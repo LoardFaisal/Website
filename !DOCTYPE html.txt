@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محمد فيصل الأبرش - محلل أعمال</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+            background-color: #4CAF50;
+            color: white;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            margin: 20px 0;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        .skills, .contact {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .skills ul, .contact ul {
+            list-style: none;
+            padding: 0;
+        }
+        .skills ul li, .contact ul li {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>محمد فيصل الأبرش</h1>
+        <h2>محلل أعمال</h2>
+    </header>
+    <div class="container">
+        <section>
+            <h2>نبذة عني</h2>
+            <p>محلل أعمال متمرس يتمتع بخبرة واسعة في تحليل العمليات التجارية الحالية لتحديد الكفاءات وفرص التحسين. ماهر في جمع وتوثيق متطلبات العمل، والتعاون مع الفرق متعددة الوظائف لتطوير وتنفيذ التحسينات العملية.</p>
+        </section>
+        <section>
+            <h2>المهارات والخبرات</h2>
+            <div class="skills">
+                <ul>
+                    <li>إجراء تحليلات شاملة للعمليات التجارية الحالية لتحديد نقاط الضعف ومجالات التحسين.</li>
+                    <li>جمع وتوثيق متطلبات العمل من خلال المقابلات وورش العمل وتحليل الوثائق الحالية.</li>
+                    <li>التعاون مع الفرق متعددة الوظائف لتطوير وتنفيذ تحسينات العملية.</li>
+                    <li>استخدام تقنيات تحليل البيانات لاستخلاص الأفكار القابلة للتنفيذ وتقديم توصيات مبنية على البيانات لتعزيز الأداء التجاري.</li>
+                    <li>تطوير وصيانة وثائق المشروع، بما في ذلك مواثيق المشاريع، مواصفات المتطلبات، وخطط الاختبار.</li>
+                    <li>تيسير الاجتماعات وورش العمل مع أصحاب المصلحة للحصول على التغذية الراجعة، معالجة المخاوف، وضمان توافق المشروع مع الأهداف التجارية.</li>
+                    <li>العمل كحلقة وصل بين أصحاب المصلحة التجاريين والفرق التقنية، ترجمة متطلبات العمل إلى مواصفات وظيفية.</li>
+                    <li>المساعدة في عمليات الاختبار وضمان الجودة لضمان التنفيذ الناجح للحلول المبتكرة.</li>
+                    <li>إجراء مراجعات ما بعد التنفيذ لتقييم فعالية الحلول المنفذة وتحديد مجالات التحسين الإضافية.</li>
+                    <li>توزيع التكاليف وضمان الربط الدقيق للحسابات حسب الحاجة، مع الحفاظ على الدقة والنزاهة في العمليات المالية.</li>
+                    <li>تطوير خطط عمل شاملة لكل قسم، مع الإشراف الدقيق على المشاريع من البداية إلى النهاية، وضمان الكفاءة والالتزام بالمواعيد النهائية.</li>
+                    <li>إنشاء مخططات انسيابية مفصلة ومعلوماتية توضح الأدوار والمسؤوليات داخل كل قسم، مما يعزز الوضوح والفهم.</li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <h2>التواصل</h2>
+            <div class="contact">
+                <ul>
+                    <li><strong>البريد الإلكتروني:</strong> faisalabohusian@gmail.com</li>
+                    <li><strong>الهاتف:</strong>0553845572</li>
+                    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohammad-faisal-al-abrash" target="_blank">linkedin.com/in/mohammad-faisal-al-abrash</a></li>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <footer>
+        <p>© 2024 محمد فيصل الأبرش. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
